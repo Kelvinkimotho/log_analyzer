@@ -28,7 +28,7 @@ It primarily analyzes **authentication logs (`auth.log`, `secure`)**, identifyin
 
 ###  Clone the Repository
 
-git clone https://github.com/your-username/log-analyzer.git
+git clone https://github.com/kelvinkimotho/log-analyzer.git
 cd log-analyzer
 
 ###  Create & Activate Virtual Environment
